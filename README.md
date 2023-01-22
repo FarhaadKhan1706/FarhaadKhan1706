@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FarhaadKhan1706
 - 👀 I’m interested in Open Source Projects 
-- 🌱 I’m currently learning Swift
+- 🌱 I’m currently learning Flutter/Dart
 - 📫 How to reach me - khanfarhaad80@gmail.com
 
 <!---
